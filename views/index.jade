@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  each message in messages || []
+    div.other-message-box
+      h1= message.user
+      p= message.text
+      p= message.added

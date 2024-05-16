@@ -14,7 +14,7 @@ Mini Message Board is a lightweight web application that allows users to post an
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/mini-message-board.git`
+1. Clone the repository: `git clone https://github.com/liambsulliva/mini-message-board.git`
 2. Navigate to the project directory: `cd mini-message-board`
 3. Install the dependencies: `npm install`
 
